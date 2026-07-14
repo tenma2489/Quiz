@@ -77,6 +77,6 @@ public class FlagQuiz : MonoBehaviour
         else
             Debug.Log("•s³‰ğ");
 
-      
+        CreateQuestion();
     }
 }
